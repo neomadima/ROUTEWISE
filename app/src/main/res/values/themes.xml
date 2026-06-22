@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ROUTEWISE" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/primary_light</item>
+        <item name="colorOnPrimary">@color/onPrimary_light</item>
+        <item name="colorPrimaryContainer">@color/primaryContainer_light</item>
+        <item name="colorOnPrimaryContainer">@color/onPrimaryContainer_light</item>
+        <item name="colorSecondary">@color/secondary_light</item>
+        <item name="colorOnSecondary">@color/onSecondary_light</item>
+        <item name="colorSecondaryContainer">@color/secondaryContainer_light</item>
+        <item name="colorOnSecondaryContainer">@color/onSecondaryContainer_light</item>
+        <item name="colorTertiary">@color/tertiary_light</item>
+        <item name="colorOnTertiary">@color/onTertiary_light</item>
+        <item name="colorTertiaryContainer">@color/tertiaryContainer_light</item>
+        <item name="colorOnTertiaryContainer">@color/onTertiaryContainer_light</item>
+        <item name="android:windowBackground">@color/background_light</item>
+        <item name="colorSurface">@color/surface_light</item>
+        <item name="colorOnSurface">@color/onSurface_light</item>
+        <item name="colorError">@color/error_light</item>
+        <item name="colorOnError">@color/onError_light</item>
+
+        <!-- Surface variants for text and outlines -->
+        <item name="colorSurfaceVariant">#E1E2EC</item>
+        <item name="colorOnSurfaceVariant">#44474E</item>
+        <item name="colorOutlineVariant">#C4C6D0</item>
+    </style>
+
+    <style name="Theme.ROUTEWISE" parent="Base.Theme.ROUTEWISE" />
+</resources>

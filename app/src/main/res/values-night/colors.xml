@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App-wide Gradient Colors (Dark) -->
+    <color name="gradient_start">#1A1C1E</color>
+    <color name="gradient_end">#121314</color>
+</resources>

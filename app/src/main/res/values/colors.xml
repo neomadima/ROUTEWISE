@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- South African Flag / Vibrant Theme -->
+    <!-- Primary: Deep Navy/Blue for reliability -->
+    <color name="primary_light">#003366</color>
+    <color name="onPrimary_light">#FFFFFF</color>
+    <color name="primaryContainer_light">#D1E4FF</color>
+    <color name="onPrimaryContainer_light">#001D36</color>
+
+    <!-- Secondary: Vibrant Yellow for alertness/road signs -->
+    <color name="secondary_light">#FFB612</color>
+    <color name="onSecondary_light">#000000</color>
+    <color name="secondaryContainer_light">#FFF1CC</color>
+    <color name="onSecondaryContainer_light">#261A00</color>
+
+    <!-- Tertiary: Safety Green -->
+    <color name="tertiary_light">#007A33</color>
+    <color name="onTertiary_light">#FFFFFF</color>
+    <color name="tertiaryContainer_light">#C2F0D5</color>
+    <color name="onTertiaryContainer_light">#00210A</color>
+
+    <!-- Background/Surface: Clean off-white -->
+    <color name="background_light">#F8F9FA</color>
+    <color name="onBackground_light">#1A1C1E</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="onSurface_light">#1A1C1E</color>
+
+    <!-- Error/Alert: Road Safety Red -->
+    <color name="error_light">#E03C31</color>
+    <color name="onError_light">#FFFFFF</color>
+
+    <!-- Dark Mode Palette -->
+    <color name="primary_dark">#A6C8FF</color>
+    <color name="onPrimary_dark">#003062</color>
+    <color name="primaryContainer_dark">#00468B</color>
+    <color name="onPrimaryContainer_dark">#D1E4FF</color>
+
+    <color name="secondary_dark">#E2C200</color>
+    <color name="onSecondary_dark">#373000</color>
+    <color name="secondaryContainer_dark">#4F4600</color>
+    <color name="onSecondaryContainer_dark">#FFF1CC</color>
+
+    <color name="tertiary_dark">#87D79B</color>
+    <color name="onTertiary_dark">#003914</color>
+    <color name="tertiaryContainer_dark">#005220</color>
+    <color name="onTertiaryContainer_dark">#C2F0D5</color>
+
+    <color name="background_dark">#1A1C1E</color>
+    <color name="onBackground_dark">#E2E2E6</color>
+    <color name="surface_dark">#1A1C1E</color>
+    <color name="onSurface_dark">#E2E2E6</color>
+
+    <!-- App-wide Gradient Colors -->
+    <color name="gradient_start">#FFFFFF</color>
+    <color name="gradient_end">#F0F4F8</color>
+</resources>
